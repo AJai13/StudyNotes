@@ -1,1 +1,1 @@
-# -This repository currently holds notes, commands and terms for study purposes.
+# -Made this repository to hold notes, commands and terms for study purposes.
