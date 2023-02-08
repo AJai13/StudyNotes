@@ -2,15 +2,15 @@
 I made this repository to hold notes, commands and terms for study purposes.
 
 
-# Notes:
+# Commands:
 
 ```
 # https://pypi.org/
-- instalar dependencia: pip install <nomedadependencia>
+- install dependency: pip install <dependencyname>
 
-- run code (relativo): python <nomedoarquivo>.py
-- run code (completo): python C:\Users\user\Documents\<nomedapasta>\<nomedoarquivo>.py
+- run code (relative): python <filename>.py
+- run code (complete): python C:\Users\user\Documents\<foldername>\<filename>.py
 
-# funciona para projeto local ou python
-- run project: python -m <nomedoprojeto>
+# works for local project or python
+- run project: python -m <projectname>
 ```
