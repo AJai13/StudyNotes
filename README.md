@@ -25,4 +25,7 @@ I made this repository to hold notes, commands and terms for study purposes.
 # change directory
 - cd ..
 - cd Documents/Python
+
+# root
+- sudo <command>
 ```
