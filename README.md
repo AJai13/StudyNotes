@@ -7,6 +7,10 @@ I made this repository to hold notes, commands and terms for study purposes.
 ```
 # https://pypi.org/ # install dependency:
 - pip install <dependencyname>
+- pip install -r ^Caminho-1>/<caminho-2>/requirements.txt
+
+# ver dependências instaladas
+- pip freeze
 
 # run code (relative): 
 - python <filename>.py
@@ -19,8 +23,9 @@ I made this repository to hold notes, commands and terms for study purposes.
 # create virtualenv
 - python -m venv venv
 
-# activate virtualenv
+# activate virtualenv (windows)
 - venv/Scripts/activate
+# (linux)
 - source venv/bin/activate
 - ./venv/bin/activate
 - bash venv/bin/activate
@@ -35,4 +40,10 @@ I made this repository to hold notes, commands and terms for study purposes.
 usuário@hostname:diretório[# | $]
 # root
 $ usuário 
+
+# reverse search
+- crtl + R
+
+# histórico de comandos
+- history
 ```
