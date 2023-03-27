@@ -28,4 +28,8 @@ I made this repository to hold notes, commands and terms for study purposes.
 
 # root (rodar como administrador)
 - sudo <command>
+
+usuário@hostname:diretório[# | $]
+# root
+$ usuário 
 ```
