@@ -21,6 +21,9 @@ I made this repository to hold notes, commands and terms for study purposes.
 
 # activate virtualenv
 - venv/Scripts/activate
+- source venv/bin/activate
+- ./venv/bin/activate
+- bash venv/bin/activate
 
 # change directory
 - cd ..
