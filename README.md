@@ -17,7 +17,8 @@ I made this repository to hold notes, commands and terms for study purposes.
 # run code (complete): 
 - python C:\Users\user\Documents\<foldername>\<filename>.py
 
-# works for local project or python. Run project:
+# Run project:
+# works for local project or python. 
 - python -m <projectname>
 
 # create virtualenv
