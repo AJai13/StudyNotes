@@ -47,4 +47,25 @@ $ usuário
 
 # histórico de comandos
 - history
+
+# monstrar conteúdo do diretório
+- ls
+
+# mostrar caminho do diretório
+- pwd
+
+# atualizar metadados dos pacotes (refresh)
+- sudo apt update
+
+# atualização (aplicar atualização)
+- sudo apt upgrade
+
+# instalar pacote
+- sudo apt install <package>
+
+# desinstalar pacote
+- sudo apt uninstall <package>
+
+# remove
+- rm 
 ```
